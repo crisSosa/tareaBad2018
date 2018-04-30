@@ -1,0 +1,104 @@
+.well {
+	background-color: #428bca !important;
+}
+.navbar-default{
+	background-color:#303030;
+	border-color:none;
+	border-radius:0px;
+	background-image: none;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus{
+	color:#fff;
+}
+.navbar-default .navbar-nav>li>a{
+	color:#fff;
+}
+.navbar-default .navbar-nav>li>a:hover.
+.navbar-default .navbar-nav>li>a:focus{
+	background-color:#428bca;
+}
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus{
+	color:#fff;
+	background-color:#428bca;
+}
+.navbar-default .navbar-text{
+	color:#fff;
+}
+.navbar-default .navbar-toggle{
+	border-color:#428bca;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background-color:#428bca
+}
+
+.glyphicon {
+    font-size: 15px;
+}
+
+.caret {
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #0669b2;
+    color: #ffffff;
+}
+
+.dropdown-toggle:active, .open .dropdown-toggle {
+        background:#0669b2 !important; 
+        color:#ffffff !important;
+    }
+
+.open .dropdown-menu>li>a ,.open .dropdown-menu {
+    background-color: #303030;
+    color:#ffffff;
+  }
+
+.dropdown-menu > li a:hover, .dropdown-menu > li a:focus { 
+	background-color: #0669b2;
+	color:#ffffff;
+	background-image: none; 
+}
+.navbar-nav > li > a {padding-top:7px !important; padding-bottom:7px !important;}
+.navbar {min-height:32px !important; width:100%}
+
+.contenedor{
+  background-color: #fafafa;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #6C7276;
+  border-radius: 10px
+}
+
+
+.tabl {
+    border-radius: 5px;
+    width: 50%;
+	margin: 0 auto;
+    float: none;
+}
+
+.margenIngresarDoctor{
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+ 
+  

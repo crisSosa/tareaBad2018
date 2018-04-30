@@ -14,3 +14,22 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+//Ruta para index
+
+Route::get('/inicio',function(){
+	return view('layoutBase');
+});
+
+Route::get('/inicio2',function(){
+	return view('importador');
+});
+
+//Ruta para Importadores
+//agregar importador
+
+Route::get('/registroImp','Importador@agregarImportador');
+
+
+
+
